@@ -1,0 +1,17 @@
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.theme-toggler {
+  fill: currentColor;
+}
+
+.menu {
+  background: #fafafa;
+  border-right: 1px solid;
+  margin-right: 18px;
+  z-index: 9999;

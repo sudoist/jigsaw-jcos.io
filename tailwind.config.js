@@ -10,7 +10,8 @@ module.exports = {
     ]),
     options: {
         safelist: [/language/, /hljs/, /mce/],
-    },
+    },    
+    darkMode: 'class', // or 'media' for system preference
     theme: {
         extend: {
             fontFamily: {

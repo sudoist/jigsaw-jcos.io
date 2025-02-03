@@ -7,5 +7,6 @@
 @import 'base';
 @import 'mailchimp';
 @import 'blog';
+@import 'custom';
 
 @import 'tailwindcss/utilities';
