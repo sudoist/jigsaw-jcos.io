@@ -1,0 +1,16 @@
+/build_*/
+/node_modules/
+/source/assets/build/
+/vendor/
+.DS_Store
+
+# Optional ignores
+# /build_staging/
+# /build_production/
+# /source/assets/build/
+
+# Custom ignores
+/laradock
+/.idea/
+/.vscode/
+
