@@ -21,7 +21,7 @@
             <!-- Insert analytics code here -->
         @endif
 
-        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
 
@@ -30,9 +30,14 @@
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
+                        <img class="h-14 md:h-10" src="/assets/img/logo-white.png" alt="{{ $page->siteName }} logo" />
 
-                        <h1 class="text-lg md:text-2xl text-blue-800 font-semibold hover:text-blue-600 my-0">{{ $page->siteName }}</h1>
+                        <div class="relative font-mono text-lg">
+                            <span class="inline-block overflow-hidden whitespace-nowrap border-r-8 border-white animate-typing text-lg md:text-2xl text-white font-semibold mt-2 mr-2">
+                                $ cd home/jcosio/{{ $page->siteName }}
+                            </span>
+                        </div>
+
                     </a>
                 </div>
 

@@ -1,17 +1,51 @@
+/* Background */
+body, header {
+    background-image: url('/assets/img/bg-pattern.png');
+}
+
+#vue-search div {
+    background: none;
+}
+
+/* Logo */
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+.animate-typing {
+    display: inline-block;
+    width: 0;
+    animation: typing 2s steps(12) forwards, blink 1s infinite;
+    border-right: 2px solid white; /* Simulate cursor */
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
+
+/* Nav */
 .theme-toggle {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
-  cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    cursor: pointer;
 }
 
 .theme-toggler {
-  fill: currentColor;
+    fill: currentColor;
 }
 
 .menu {
-  background: #fafafa;
-  border-right: 1px solid;
-  margin-right: 18px;
-  z-index: 9999;
+    border-right: 1px solid;
+    margin-right: 18px;
+    z-index: 9999;
+}
+
