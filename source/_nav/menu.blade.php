@@ -1,5 +1,5 @@
 <nav class="hidden lg:flex items-center justify-end text-lg menu">
-    <a title="{{ $page->siteName }} Blog" href="/blog"
+    <a title="{{ $page->siteName }} Blog" href="/posts"
         class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline {{ $page->isActive('/blog') ? 'active text-[#b99128]' : '' }}">
         Blog
     </a>

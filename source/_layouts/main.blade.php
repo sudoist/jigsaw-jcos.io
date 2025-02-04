@@ -34,7 +34,7 @@
 
                         <div class="relative font-mono text-lg">
                             <span class="inline-block overflow-hidden whitespace-nowrap border-r-8 border-white animate-typing text-lg md:text-2xl text-white font-semibold mt-2 mr-2">
-                                $ cd home/jcosio/{{ $page->siteName }}
+                                $ cd home/jcosio/blog
                             </span>
                         </div>
 

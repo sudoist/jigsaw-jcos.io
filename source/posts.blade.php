@@ -8,7 +8,7 @@ pagination:
 @extends('_layouts.main')
 
 @section('body')
-    <h1>Blog</h1>
+    <h1>Posts</h1>
 
     <hr class="border-b my-6">
 
@@ -34,7 +34,7 @@ pagination:
                 <a
                     href="{{ $path }}"
                     title="Go to Page {{ $pageNumber }}"
-                    class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-blue-600' : 'text-blue-700' }}"
+                    class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-gray-600' : 'text-gray-700' }}"
                 >{{ $pageNumber }}</a>
             @endforeach
 
