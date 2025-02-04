@@ -5,8 +5,8 @@ body {
 a {
     @apply font-semibold;
     @apply no-underline;
-    @apply text-blue-500;
-    @apply hover:text-blue-700;
+    @apply text-[#a9a9b3];
+    @apply hover:text-[#b99128];
 }
 
 blockquote {
@@ -25,6 +25,7 @@ code {
     @apply py-px;
     @apply text-sm;
     @apply bg-gray-300;
+    @apply text-gray-950;
     @apply rounded;
 }
 
@@ -48,7 +49,7 @@ h5,
 h6 {
     @apply mt-8;
     @apply mb-4;
-    @apply text-gray-900;
+    @apply text-[#a9a9b3];
     @apply leading-tight;
 
     &:first-child {
@@ -94,6 +95,7 @@ hr {
 }
 
 li {
+    @apply text-gray-400;
     & ul,
     & ol {
         @apply ml-8;
@@ -116,6 +118,7 @@ ul {
 
 p {
     @apply my-3;
+    @apply text-gray-400;
 
     @screen md {
         @apply my-6;
@@ -141,7 +144,7 @@ pre {
 
 ::selection {
     @apply text-white;
-    @apply bg-blue-400;
+    @apply bg-blue-800;
 }
 
 [x-cloak] { display: none !important; }
