@@ -7,9 +7,19 @@
                 <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mb-6">
             @endif
 
-            <p class="text-gray-700 font-medium my-2">
+            <p class="text-gray-200 font-medium my-2">
                 {{ $featuredPost->getDate()->format('F j, Y') }}
             </p>
+
+            <h2 class="text-3xl mt-0">
+                <a
+                        href="{{ $featuredPost->getUrl() }}"
+                        title="Read more - {{ $featuredPost->title }}"
+                        class="text-[#a9a9b3] font-extrabold hover:text-[#b99128]"
+                >
+                    {{ $featuredPost->title }}
+                </a>
+            </h2>
 
             <p class="mt-0 mb-4">{!! $featuredPost->getExcerpt() !!}</p>
         </div>

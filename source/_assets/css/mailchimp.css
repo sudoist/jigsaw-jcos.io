@@ -58,13 +58,13 @@
     @apply px-6;
     @apply py-2;
     @apply text-white;
-    @apply bg-blue-400;
+    @apply bg-[#a9a9b3];
     @apply leading-normal;
     @apply rounded-r;
     @apply cursor-pointer;
 
     &:hover {
-        @apply bg-blue-500;
+        @apply bg-[#b99128];
     }
 
     @screen md {

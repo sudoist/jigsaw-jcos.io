@@ -1,5 +1,5 @@
 /* Background */
-body, header {
+body, header, footer {
     background-image: url('/assets/img/bg-pattern.png');
 }
 
