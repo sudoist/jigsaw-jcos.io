@@ -4,7 +4,13 @@
     @foreach ($posts->where('featured', true) as $featuredPost)
         <div class="w-full mb-6">
             @if ($featuredPost->cover_image)
-                <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mb-6">
+                <a
+                        href="{{ $featuredPost->getUrl() }}"
+                        title="Read more - {{ $featuredPost->title }}"
+                        class="text-[#a9a9b3] font-extrabold hover:text-[#b99128]"
+                >
+                    <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mb-6 w-full">
+                </a>
             @endif
 
             <p class="text-gray-200 font-medium my-2">
