@@ -9,7 +9,7 @@
                         title="Read more - {{ $featuredPost->title }}"
                         class="text-[#a9a9b3] font-extrabold hover:text-[#b99128]"
                 >
-                    <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mb-6 w-full">
+                    <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mb-6 w-full rounded-2xl">
                 </a>
             @endif
 
