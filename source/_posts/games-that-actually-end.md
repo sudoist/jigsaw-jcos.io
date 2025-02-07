@@ -6,7 +6,7 @@ date: 2017-11-20
 description: This time for the Humble Bundle post
 cover_image: /assets/img/covers/games-that-actually-end.jpg
 featured: true
-categories: [gaming]
+categories: [ gaming ]
 ---
 
 Well hello there! Got some new toys from [Humble Bundle](https://www.humblebundle.com).
