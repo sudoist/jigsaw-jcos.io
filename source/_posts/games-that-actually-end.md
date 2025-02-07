@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Games that actually end
 date: 2017-11-20
-description: This time for the Humble Bundle post
+description: This time for the Humble Bundle post.
 cover_image: /assets/img/covers/games-that-actually-end.jpg
 featured: true
 categories: [ gaming ]

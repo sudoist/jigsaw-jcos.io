@@ -1,7 +1,7 @@
 ---
 extends: _layouts.category
 title: Gaming
-description: Posts about gaming related topics
+description: All posts about gaming.
 ---
 
 Posts about gaming related topics.
