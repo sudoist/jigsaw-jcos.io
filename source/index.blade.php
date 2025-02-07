@@ -27,7 +27,7 @@
                 </a>
             </h2>
 
-            <p class="mt-0 mb-4">{!! $featuredPost->getExcerpt() !!}</p>
+            <p class="mt-0 mb-4">{{ $featuredPost->description }}</p>
         </div>
 
         @if (! $loop->last)

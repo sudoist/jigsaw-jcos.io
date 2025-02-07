@@ -11,5 +11,5 @@
         >{{ $post->title }}</a>
     </h2>
 
-    <p class="mb-4 mt-0 text-gray-400">{!! $post->getExcerpt(200) !!}</p>
+    <p class="mb-4 mt-0 text-gray-400">{{ $post->description }}</p>
 </div>

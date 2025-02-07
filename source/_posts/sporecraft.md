@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Spore.. SporeCraft… What?
 date: 2015-03-03
-description: Spore lets you create vehicles, creatures and buildings and more. Here are some creatures I made.
+description: Spore lets you create vehicles, creatures and buildings and more.
 cover_image: /assets/img/covers/sporecraft.jpg
 featured: false
 categories: [ gaming, project ]
