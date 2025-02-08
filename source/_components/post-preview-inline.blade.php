@@ -1,4 +1,14 @@
 <div class="flex flex-col mb-4">
+    @if ($post->cover_image)
+        <a
+                href="{{ $post->getUrl() }}"
+                title="Read more - {{ $post->title }}"
+                class="text-[#a9a9b3] font-extrabold hover:text-[#b99128]"
+        >
+            <img src="{{ $post->cover_image }}" alt="{{ $post->title }} cover image" class="mb-6 w-full rounded-2xl">
+        </a>
+    @endif
+
     <p class="text-gray-200 font-medium my-2">
         {{ $post->getDate()->format('F j, Y') }}
     </p>
