@@ -4,7 +4,7 @@ section: content
 title: Games that actually end
 date: 2017-11-20
 description: This time for getting back into games that end from Humble Bundle.
-cover_image: /assets/img/covers/games-that-actually-end.jpg
+cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/nhu-nguyen-527972-unsplash_i9wxpq.jpg
 featured: true
 categories: [ gaming ]
 ---

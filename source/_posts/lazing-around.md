@@ -4,9 +4,9 @@ section: content
 title: Lazing around
 date: 2015-02-20
 description: Nothing in particular just lazing around.
-cover_image: /assets/img/covers/lazing-around.jpg
+cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/stock-cat2_jlxv6g.jpg
 featured: false
-categories: [ anything goes ]
+categories: [ anything-goes ]
 ---
 
 Not feeling good.

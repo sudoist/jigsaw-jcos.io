@@ -4,9 +4,9 @@ section: content
 title: Hello world!
 date: 2015-02-15
 description: Hello! This is my first post.
-cover_image: /assets/img/covers/hello-world.jpg
+cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/stock1_kidyhu.jpg
 featured: false
-categories: [ anything goes ]
+categories: [ anything-goes ]
 ---
 
 Hello! This is my first post.
