@@ -1,6 +1,7 @@
 const defaults = require('tailwindcss/defaultTheme');
 
 module.exports = {
+    mode: 'jit',
     content: require('fast-glob').sync([
         'source/**/*.html',
         'source/**/*.md',
