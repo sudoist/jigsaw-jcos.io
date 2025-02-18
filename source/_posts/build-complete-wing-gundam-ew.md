@@ -43,11 +43,15 @@ If you would also like to build this kit you can get it on Amazon with the link 
 
 <div class="flex justify-center">
     <a href="https://amzn.to/2HLLR65">
-        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/hugo/jcos.io/affiliates/10389441_fltkom.jpg" class="rounded-lg shadow-lg" alt="Model Kit: SD Gundam EX-Standard Wing Gundam Zero EW">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_500/hugo/jcos.io/affiliates/10389441_fltkom.jpg" class="rounded-lg shadow-lg" alt="Model Kit: SD Gundam EX-Standard Wing Gundam Zero EW">
     </a>
 </div>
 
 #### [Model Kit: SD Gundam EX-Standard Wing Gundam Zero EW](https://amzn.to/2HLLR65)
+
+>*I don't get any commission from Amazon for purchases made through these links.*
+
+>*Will probably set it up later.*
 
 ---
 

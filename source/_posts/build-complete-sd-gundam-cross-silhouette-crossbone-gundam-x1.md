@@ -69,7 +69,7 @@ I don't have one yet.
 
 <div class="flex justify-center">
     <a href="https://amzn.to/2T0zqIO">
-        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/hugo/jcos.io/affiliates/sdcrossbones_ir20cq.jpg" class="rounded-lg shadow-lg" alt="Model Kit: SD Gundam Cross Silhouette Crossbone Gundam X1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_500/hugo/jcos.io/affiliates/sdcrossbones_ir20cq.jpg" class="rounded-lg shadow-lg" alt="Model Kit: SD Gundam Cross Silhouette Crossbone Gundam X1">
     </a>
 </div>
 

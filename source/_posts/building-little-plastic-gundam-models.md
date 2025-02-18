@@ -5,7 +5,7 @@ title: "New Hobby: Building little plastic Gundam models"
 date: 2019-04-10
 description: Last week I got back from Japan. While I was there, the toys especially Gundam kits seems cheaper so I picked up a couple.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/building-little-plastic-gundam-models/20190406_145636_wuwam7.jpg
-featured: true
+featured: false
 categories: [ gunpla ]
 ---
 

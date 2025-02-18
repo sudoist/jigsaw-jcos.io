@@ -5,7 +5,7 @@ title: Credit Card Death
 date: 2016-10-06
 description: The idea of puns and credit card debt(Death) as debt can lead to death drafted on a napkin.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/Credit-Card-Debt-Draft.png
-featured: true
+featured: false
 categories: [ project ]
 ---
 

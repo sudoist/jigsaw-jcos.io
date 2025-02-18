@@ -5,7 +5,7 @@ title: "So many games so little time: Plants vs Zombies"
 date: 2015-10-14
 description: Quick summary and review of Plants vs Zombies.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/loading_q37xyj.png
-featured: true
+featured: false
 categories: [ gaming ]
 ---
 
