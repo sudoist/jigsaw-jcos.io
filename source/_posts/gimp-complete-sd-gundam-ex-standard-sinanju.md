@@ -25,13 +25,9 @@ categories: [ gunpla ]
 
 ## Before
 
-{{< image src="20190415_020144_oaoonp.jpg" >}}
-
 ![Before Edit](https://res.cloudinary.com/langitlupakintoncloud/image/upload/hugo/jcos.io/20190415_020144_oaoonp.jpg)
 
 ## After
-
-{{< image src="scaled_sinanju_dddejn.png" >}}
 
 ![After Edit](https://res.cloudinary.com/langitlupakintoncloud/image/upload/hugo/jcos.io/scaled_sinanju_dddejn.png)
 
@@ -43,7 +39,7 @@ More practice with glowing things like the gun scopes and eye.
 
 Sometime in the future I would like to paint this.
 
-Also I&#8217;ve recorded the editing so I can post some speed edit videos. Yey!
+Also I&#8217;ve recorded the editing, so I can post some speed edit videos.
 
 One more SD remaining from initial stocks (Might buy 1 last more).
 
