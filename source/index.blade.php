@@ -37,21 +37,32 @@
 
     @include('_components.newsletter-signup')
 
-    @foreach ($posts->where('featured', false)->take(6)->chunk(2) as $row)
-        <div class="flex flex-col md:flex-row md:-mx-6">
-            @foreach ($row as $post)
-                <div class="w-full md:w-1/2 md:mx-6">
-                    @include('_components.post-preview-inline')
-                </div>
+    @php
+        // Get non-featured posts & sort by date descending
+        $posts = $posts->where('featured', false)->take(8)->sortByDesc('date')->values();
 
-                @if (! $loop->last)
-                    <hr class="block md:hidden w-full border-b mt-2 mb-6">
-                @endif
-            @endforeach
-        </div>
+        $column1 = collect();
+        $column2 = collect();
 
-        @if (! $loop->last)
-            <hr class="w-full border-b mt-2 mb-6">
-        @endif
-    @endforeach
+        // Distribute left-right order
+        foreach ($posts as $index => $post) {
+            if ($index % 2 == 0) {
+                $column1->push($post); // Even indexes go to column 1
+            } else {
+                $column2->push($post); // Odd indexes go to column 2
+            }
+        }
+
+        // Merge back in strict order
+        $orderedPosts = $column1->concat($column2);
+    @endphp
+
+    <div class="columns-1 sm:columns-2 gap-6">
+        @foreach ($orderedPosts as $post)
+            <div class="break-inside-avoid mb-6">
+                @include('_components.post-preview-inline')
+            </div>
+        @endforeach
+    </div>
+
 @stop
