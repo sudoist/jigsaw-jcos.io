@@ -7,23 +7,47 @@
         @yield('content')
     </div>
 
-    @foreach ($page->posts($posts)->chunk(2) as $row)
-        <div class="flex flex-col md:flex-row md:-mx-6">
-            @foreach ($row as $post)
-                <div class="w-full md:w-1/2 md:mx-6">
-                    @include('_components.post-preview-inline')
-                </div>
+    @php
+        // Get category posts & sort by date descending
+        $postsInCategory = $page->posts($posts)->sortByDesc('date')->values();
 
-                @if (! $loop->last)
-                    <hr class="block md:hidden w-full border-b mt-2 mb-6">
-                @endif
-            @endforeach
-        </div>
+        $lastOddPost = '';
 
-        @if (! $loop->last)
-            <hr class="w-full border-b mt-2 mb-6">
-        @endif
-    @endforeach
+        if ((count($postsInCategory) % 2) !== 0) {
+            $postsInCategory = $postsInCategory->take(count($postsInCategory) - 1);
+            $lastOddPost = $page->posts($posts)->sortBy('date')->first();
+        } else {
+            $postsInCategory = $postsInCategory->take(count($postsInCategory));
+            // TODO: Fix ordering of dates
+        }
+
+        $column1 = collect();
+        $column2 = collect();
+
+        // Distribute left-right order
+        foreach ($postsInCategory as $index => $post) {
+            if ($index % 2 == 0) {
+                $column1->push($post); // Even indexes go to column 1
+            } else {
+                $column2->push($post); // Odd indexes go to column 2
+            }
+        }
+
+        // Merge back in strict order
+        $orderedPosts = $column1->concat($column2);
+
+        if ($lastOddPost !== '') {
+            $orderedPosts->push($lastOddPost);
+        }
+    @endphp
+
+    <div class="columns-1 sm:columns-2 gap-6">
+        @foreach ($orderedPosts as $post)
+            <div class="break-inside-avoid mb-6">
+                @include('_components.post-preview-inline')
+            </div>
+        @endforeach
+    </div>
 
     @include('_components.newsletter-signup')
 @stop
