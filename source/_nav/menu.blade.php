@@ -1,17 +1,22 @@
 <nav class="hidden lg:flex items-center justify-end text-lg menu">
+    <a href="https://jcos.io/about/"
+       class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline">
+        About
+    </a>
+
     <a title="{{ $page->siteName }} Posts" href="/posts"
         class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline {{ $page->isActive('/blog') ? 'active text-[#b99128]' : '' }}">
         Posts
     </a>
 
-    <a title="{{ $page->siteName }} About" href="/about"
-        class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline {{ $page->isActive('/about') ? 'active text-[#b99128]' : '' }}">
-        About
+    <a href="https://projects.jcos.io/"
+        class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline">
+        Projects
     </a>
 
-    <a title="{{ $page->siteName }} Contact" href="/contact"
-        class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline {{ $page->isActive('/contact') ? 'active text-[#b99128]' : '' }}">
-        Contact
+    <a href="https://resume.jcos.io/"
+        class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline">
+        Resume
     </a>
     
     <span class="theme-toggle ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline">
