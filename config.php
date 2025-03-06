@@ -6,7 +6,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'John Cosio',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
+    'siteDescription' => 'John Cosio Blog',
     'siteAuthor' => 'John',
 
     // collections
