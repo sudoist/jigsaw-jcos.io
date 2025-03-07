@@ -10,9 +10,10 @@ description: Support my site
     <hr class="border-b my-6">
 
     <div class="text-left">
-        <h4> Help support me by leaving a tip below.</h4>
+        <h4>Help support me by leaving a tip below.</h4>
         <h4>Your contribution goes toward server costs, website services, and, most importantly, kilos of rice.</h4>
         <h4>I strive to provide the best experience of questioning your purchase. 💸💸💸</h4>
+        <h4>Your support also keeps this site ad-free—because I don’t enjoy them either.</h4>
         <h4> Thank you very much! </h4>
     </div>
 
