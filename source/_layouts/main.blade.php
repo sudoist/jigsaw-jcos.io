@@ -34,10 +34,10 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
+        <header class="flex items-center shadow lg:bg-white lg:border-b h-24 py-4" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
-                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
+                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center mt-24 lg:mt-0">
                         <img class="h-14 md:h-10" src="/assets/img/logo-white.png" alt="{{ $page->siteName }} logo" />
 
                         <div class="relative font-mono text-lg">
@@ -50,7 +50,10 @@
                 </div>
 
                 <div id="vue-search" class="flex flex-1 justify-end items-center">
-                    @include('_components.search')
+                    {{-- TODO: Setup search later --}}
+                    <diV class="hidden ">
+                        @include('_components.search')
+                    </diV>
 
                     @include('_nav.menu')
 
