@@ -36,7 +36,7 @@ Figured I can edit them to add details then clean up nubs.
     </a>
 </div>
 
-You might want to see the [edited version](build-complete-sd-gundam-ex-standard-gundam-deathscythe-hell-ew/)
+You might want to see the [edited version](/posts/gimp-complete-sd-gundam-ex-standard-gundam-deathscythe-hell-ew-sd/)
 
 ---
 

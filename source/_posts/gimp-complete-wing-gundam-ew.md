@@ -13,7 +13,7 @@ categories: [ gunpla ]
 
 So after looking around on how to paint and what best way to do this, I ended up coloring and working on this using my computer.
 
-This is the previous SD we built – [Wing Gundam EW](#)
+This is the previous SD we built – [Wing Gundam EW](/posts/build-complete-wing-gundam-ew)
 
 ## Before
 
