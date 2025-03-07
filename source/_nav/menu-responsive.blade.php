@@ -15,6 +15,13 @@
         </li>
         <li class="pl-4">
             <a
+                title="{{ $page->siteName }} Categories"
+                href="/categories"
+                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/about') ? 'active [#b99128]' : 'text-gray-800 hover:[#b99128]' }}"
+            >Categories</a>
+        </li>
+        <li class="pl-4">
+            <a
                 href="https://projects.jcos.io/"
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/contact') ? 'active [#b99128]' : 'text-gray-800 hover:[#b99128]' }}"
             >Projects</a>
