@@ -24,6 +24,16 @@ description: List of site categories
 
         <div class="relative flex items-center space-x-3 rounded-lg border border-gray-300 bg-none px-6 py-5 shadow-sm focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 hover:border-gray-400">
             <div class="min-w-0 flex-1">
+                <a href="/posts/categories/dev/" class="focus:outline-none">
+                    <span class="absolute inset-0" aria-hidden="true"></span>
+                    <p class="text-2xl lg:text-4xl font-bold text-[#a9a9b3]">Development</p>
+                    <p class="truncate text-sm text-gray-400">Posts about development and tech related topics.</p>
+                </a>
+            </div>
+        </div>
+
+        <div class="relative flex items-center space-x-3 rounded-lg border border-gray-300 bg-none px-6 py-5 shadow-sm focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 hover:border-gray-400">
+            <div class="min-w-0 flex-1">
                 <a href="/posts/categories/gaming/" class="focus:outline-none">
                     <span class="absolute inset-0" aria-hidden="true"></span>
                     <p class="text-2xl lg:text-4xl font-bold text-[#a9a9b3]">Gaming</p>
