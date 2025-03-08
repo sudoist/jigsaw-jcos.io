@@ -17,5 +17,13 @@ description: Support my site
         <h4> Thank you very much! </h4>
     </div>
 
-    <iframe id='kofiframe' src='https://ko-fi.com/sudoist/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;background:none;' height='712' title='sudoist'></iframe>
+    <iframe id='kofiframe' src='https://ko-fi.com/sudoist/?hidefeed=true&widget=true&embed=true&preview=true' height='712' title='sudoist'></iframe>
 @endsection
+
+<style>
+    #kofiframe {
+        padding-top: 1em;
+        border:none;
+        width:100%;
+    }
+</style>

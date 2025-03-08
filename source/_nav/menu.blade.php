@@ -9,9 +9,14 @@
         Posts
     </a>
 
-    <a title="{{ $page->siteName }} Categproes" href="/categories"
+    <a title="{{ $page->siteName }} Categories" href="/categories"
         class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline {{ $page->isActive('/blog') ? 'active text-[#b99128]' : '' }}">
         Categories
+    </a>
+
+    <a title="{{ $page->siteName }} Support" href="/support"
+        class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline {{ $page->isActive('/blog') ? 'active text-[#b99128]' : '' }}">
+        Support
     </a>
 
     <a href="https://projects.jcos.io/"

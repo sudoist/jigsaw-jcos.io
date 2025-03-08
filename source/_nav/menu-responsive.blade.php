@@ -22,6 +22,13 @@
         </li>
         <li class="pl-4">
             <a
+                title="{{ $page->siteName }} Support"
+                href="/support"
+                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/about') ? 'active [#b99128]' : 'text-gray-800 hover:[#b99128]' }}"
+            >Support</a>
+        </li>
+        <li class="pl-4">
+            <a
                 href="https://projects.jcos.io/"
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/contact') ? 'active [#b99128]' : 'text-gray-800 hover:[#b99128]' }}"
             >Projects</a>
