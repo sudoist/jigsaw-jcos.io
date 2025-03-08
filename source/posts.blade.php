@@ -12,13 +12,14 @@ pagination:
 
     <hr class="border-b my-6">
 
-    @foreach ($pagination->items as $post)
-        @include('_components.post-preview-inline')
+    <div class="columns-1 sm:columns-2 gap-6">
+        @foreach ($pagination->items as $post)
+            <div class="break-inside-avoid mb-6">
+                @include('_components.post-preview-inline')
+            </div>
 
-        @if ($post != $pagination->items->last())
-            <hr class="border-b my-6">
-        @endif
-    @endforeach
+        @endforeach
+    </div>
 
     @if ($pagination->pages->count() > 1)
         <nav class="flex flex-wrap justify-center text-base my-8">
