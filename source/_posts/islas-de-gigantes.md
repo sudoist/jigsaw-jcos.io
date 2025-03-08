@@ -5,7 +5,7 @@ title: Islas de Gigantes
 date: 2019-05-10
 description: Sharing my Islas de Gigantes travel photos on Unsplash.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/john-cosio-1134231-unsplash_xaok5i.jpg
-featured: false
+featured: true
 categories: [ photography, travel, project ]
 ---
 

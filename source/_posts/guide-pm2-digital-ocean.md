@@ -5,7 +5,7 @@ title: "Guide: Setting up multiple Node.js applications on DigitalOcean"
 date: 2020-11-08
 description: Setting up guide for multiple node applications on a single pm2 instance.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/sgbiyixdr1hkfuuuy7fr.jpg
-featured: false
+featured: true
 categories: [ dev ]
 ---
 
