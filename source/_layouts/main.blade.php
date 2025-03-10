@@ -19,6 +19,9 @@
 
         @if ($page->production)
             <!-- Insert analytics code here -->
+
+            <!-- 100% privacy-first analytics -->
+            <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
         @endif
 
         <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
