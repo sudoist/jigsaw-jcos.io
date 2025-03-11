@@ -23,8 +23,17 @@
         @endforeach
     @endif
 
-    <div class="border-b border-blue-200 mb-10 pb-4" v-pre>
+    <div class="mb-10 pb-4" v-pre>
         @yield('content')
+
+        <div class="commentbox"></div>
+        <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+        <script>
+            commentBox('5657989755174912-proj', {
+                textColor: '#fff'
+            });
+        </script>
+
     </div>
 
     <nav class="flex justify-between text-sm md:text-base">
