@@ -9,7 +9,7 @@ featured: false
 categories: [ gaming ]
 ---
 
-## TLDR
+## TL;DR
 
 Crashlands is a fun and addictive crafting RPG with a quirky story and entertaining characters.
 
@@ -22,6 +22,7 @@ The humor, pacing, and engaging mechanics make it a great pick, especially on sa
 Highly recommended!
 
 ## First Impressions
+
 Hey there! Just finished [Crashlands](https://store.steampowered.com/app/391730/Crashlands/), and wow—I lost some sleep over this one. Just one more recipeee!!!
 
 Originally released in 2016, I was late to the party, but no worries—I still had a blast playing it. It went on sale on Steam and Google Play, so I grabbed the Android version since I figured I’d play it more often (plus, it was cheaper!).
