@@ -3,41 +3,67 @@ extends: _layouts.post
 section: content
 title: "So many games so little time: Crashlands"
 date: 2018-03-30
-description: Quick summary and review of Crashlands. Played on my phone. Don't you have phones?
+description: Quick summary and review of Crashlands. Played on my phone. Don't you guys have phones?
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/crashlands-cover_gtnzk1.png
 featured: false
 categories: [ gaming ]
 ---
 
-Hey there! Just finished Crashlands. I really enjoyed every session and lost some sleep. Just one more recipeee!!!
-Crashlands was released in 2016, I was pretty late for the party but no worries still got to play it. It went on sale some time ago on Steam and Google play so I went with the Android version since I thought I might be able to play that more often(Also cheaper).
+## First Impressions
+Hey there! Just finished [Crashlands](https://store.steampowered.com/app/391730/Crashlands/), and wow—I lost some sleep over this one. Just one more recipeee!!!
 
-## **Gameplay**
+Originally released in 2016, I was late to the party, but no worries—I still had a blast playing it. It went on sale on Steam and Google Play, so I grabbed the Android version since I figured I’d play it more often (plus, it was cheaper!).
 
-The game focuses on crafting and battles to get items needed for crafting. Seems really simple but there is a lot to it.
+## Gameplay
 
-On later stages the game could get a little grindy but not to the point that it feels like a slog.
+### Crafting & Combat Fun
 
-There are lots to do in the games. Craft stuff, craft weapons, furniture and more.
+At its core, [Crashlands](https://store.steampowered.com/app/391730/Crashlands/) is all about crafting and battling to gather materials for more crafting—seems simple, but there’s a lot more depth to it.
 
-## **Story**
+Later stages can get a bit grindy, but never to the point where it feels like a slog.
 
-Main character is Flux Dabes, She is a she but I was it was in the middle of the game where I realized that.
+There’s always something to do—crafting weapons, furniture, and more, all while exploring a massive alien world.
 
-Bet she&#8217;s hot under that infinisuit. She is a shipping expert and the story mostly revolves around delivering the packages.
+### A few gameplay recordings
 
-Another important character is Juicebox the robot that allows follows you around. Juicebox&#8217;s dialogues are entertaining and hilarious.
+<div class="columns-1 md:columns-2 gap-4 space-y-4">
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/ugTI2N5n0t8" frameborder="0" allowfullscreen></iframe>
+    </div>
 
-I also like the pacing of the story. Feels about right.
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/QBBIgLBeeOI" frameborder="0" allowfullscreen></iframe>
+    </div>
 
-## **TLDR**
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/IeNGoiNgrrY" frameborder="0" allowfullscreen></iframe>
+    </div>
 
-If you are thinking about playing a new game with great fun story and can keep you entertained for hours get this game now. Even better when on sale but It&#8217;s worth it. There are also some achievements/perks among other ButterScotch games.
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/TGDv-ecsV7g" frameborder="0" allowfullscreen></iframe>
+    </div>   
+</div>
 
-There&#8217;s also a nice story of how they start up working on Crashlands.
+> Unfortunately, these recordings didn’t capture the game’s audio, but they still showcase the gameplay well!
 
-Thinking of adding gameplay videos here on another post.
+## Story
 
-That&#8217;s all for now.
+### A Quirky Space Adventure
 
-Until next game, bye!
+You play as Flux Dabes, a shipping expert (who, fun fact, is actually a she! Took me half the game to realize that, lol).
+
+Her mission? Deliver packages. Sounds simple, but things go sideways fast.
+
+Then there’s Juicebox, your robot companion, who constantly follows you around, delivering hilarious dialogue throughout the game.
+
+The story pacing feels just right, keeping things interesting while never dragging on too long.
+
+## TLDR
+
+### Should You Play It?
+
+Yes! If you’re looking for a fun, story-driven game that’ll keep you entertained for hours, [Crashlands](https://store.steampowered.com/app/391730/Crashlands/) is worth every penny—especially if you catch it on sale.
+
+There are also some cool perks and achievements if you play other [Butterscotch Shenanigans](https://www.bscotch.net/) games.
+
+Fun fact: [Crashlands](https://store.steampowered.com/app/391730/Crashlands/) has a great dev backstory—definitely worth checking out how it came to be.
