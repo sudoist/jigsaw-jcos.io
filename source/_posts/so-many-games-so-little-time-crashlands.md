@@ -9,6 +9,18 @@ featured: false
 categories: [ gaming ]
 ---
 
+## TLDR
+
+Crashlands is a fun and addictive crafting RPG with a quirky story and entertaining characters.
+
+The gameplay revolves around gathering materials, crafting gear, and battling creatures across an alien world.
+
+While it can get a little grindy, it never feels like a chore.
+
+The humor, pacing, and engaging mechanics make it a great pick, especially on sale.
+
+Highly recommended!
+
 ## First Impressions
 Hey there! Just finished [Crashlands](https://store.steampowered.com/app/391730/Crashlands/), and wow—I lost some sleep over this one. Just one more recipeee!!!
 
@@ -16,7 +28,7 @@ Originally released in 2016, I was late to the party, but no worries—I still h
 
 ## Gameplay
 
-### Crafting & Combat Fun
+#### Crafting & Combat Fun
 
 At its core, [Crashlands](https://store.steampowered.com/app/391730/Crashlands/) is all about crafting and battling to gather materials for more crafting—seems simple, but there’s a lot more depth to it.
 
@@ -24,7 +36,7 @@ Later stages can get a bit grindy, but never to the point where it feels like a 
 
 There’s always something to do—crafting weapons, furniture, and more, all while exploring a massive alien world.
 
-### A few gameplay recordings
+#### A few gameplay recordings
 
 <div class="columns-1 md:columns-2 gap-4 space-y-4">
     <div class="aspect-w-16 aspect-h-9">
@@ -48,7 +60,7 @@ There’s always something to do—crafting weapons, furniture, and more, all wh
 
 ## Story
 
-### A Quirky Space Adventure
+#### A Quirky Space Adventure
 
 You play as Flux Dabes, a shipping expert (who, fun fact, is actually a she! Took me half the game to realize that, lol).
 
@@ -58,12 +70,19 @@ Then there’s Juicebox, your robot companion, who constantly follows you around
 
 The story pacing feels just right, keeping things interesting while never dragging on too long.
 
-## TLDR
+## Notables
 
-### Should You Play It?
+- Strengths: Engaging crafting and combat loop, hilarious dialogue, endless exploration
+- Weaknesses: Can get a bit grindy in later stages, no real challenge in combat after gearing up
+- Best For: Fans of Forager, and Stardew Valley who enjoy crafting-heavy gameplay with humor
+
+## My Thoughts
 
 Yes! If you’re looking for a fun, story-driven game that’ll keep you entertained for hours, [Crashlands](https://store.steampowered.com/app/391730/Crashlands/) is worth every penny—especially if you catch it on sale.
 
 There are also some cool perks and achievements if you play other [Butterscotch Shenanigans](https://www.bscotch.net/) games.
 
 Fun fact: [Crashlands](https://store.steampowered.com/app/391730/Crashlands/) has a great dev backstory—definitely worth checking out how it came to be.
+
+> I avoided the point system because I am not a reviewer or a critic and this is mostly for fun.  
+> Wanted to share recommendations for people who want to try something new.
