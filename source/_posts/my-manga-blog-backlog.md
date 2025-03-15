@@ -11,15 +11,17 @@ categories: [ anything-goes, reading ]
 
 ## Introduction
 
-I read a lot of manga, manhwa and watch a lot of anime since I was on my teens.
+I’ve been reading manga, manhwa, and watching anime since my teens.
 
-A few of the early anime I watched were Voltes V, Daimos, Yaiba, Dragon Ball, YuYu Hakusho or localized as Ghost Fighter and Slam Dunk.
+Some of the first anime I watched were Voltes V, Daimos, Yaiba, Dragon Ball, YuYu Hakusho (localized as Ghost Fighter), and Slam Dunk.
 
-Something different from the Masked Rider Black, Power Rangers, Shaider and Ultraman from that time.  
+They were different from the Masked Rider Black, Power Rangers, Shaider, and Ultraman shows that were popular at the time.  
 
 It was a great way of escapism.
 
-First time I read manga was Naruto at OneMange after finishing Naruto Shippuden first season.
+The first manga I ever read was Naruto on OneManga, right after finishing the first season of Naruto Shippuden.
+
+![OneMange home](https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1742039756/hugo/jcos.io/wtr3bzzycrkqjolv0ixc.png)
 
 <details class="text-white hover:text-[#b99128] cursor-pointer">
   <summary>Click to reveal the spoiler</summary>
@@ -29,23 +31,23 @@ First time I read manga was Naruto at OneMange after finishing Naruto Shippuden 
   <p class="pl-4 font-bold text-lg">I remember starting out in OneMange -> MangaFox -> MangaStream</p>
 </details>
 
-It was exciting to get to read what's going to happen next.
+It was exciting to read ahead and see what would happen next.
 
-Then moved on to the popular titles at that time, Bleach then One Piece, Hunter X Hunter.
+From there, I moved on to other popular titles at the time—Bleach, One Piece, and Hunter x Hunter.
 
-The "Surprise Me" button in that site exposed me to different genres and all kinds of stories.
+One of the best things about those early manga sites was the "Surprise Me" button.
+
+It introduced me to different genres and all kinds of stories I wouldn’t have discovered otherwise.
 
 ## Looking Back: How It Started
 
-As you read and read more sometimes you get the feeling that "Hey this page seems familiar like deja vu".
+As I read more and more, I started getting that déjà vu feeling—like I had seen certain pages before.
 
-Then you notice you know what's going to happen next.
+Then I’d realize… I already read this years ago and just forgot.
 
-Turns out I've already read this way back and just forgot.
+That’s when I decided to start listing the manga I was currently reading while also tracking completed titles.
 
-I started listing the current reading while also adding completed titles.
-
-This is the current list that I am now working on.
+Now, I have a backlog that I’m finally working through.
 
 ## My Current Backlog
 
@@ -55,32 +57,34 @@ This is the current list that I am now working on.
 > "Sucking at something is the first step to becoming sorta good at something"  
 > This is on the cover of one of my old posts [On writing blog posts](/posts/writing-blog-posts/)
 
-The list keeps growing though I managed to write 2 posts recently.
+The list keeps growing, though I did manage to write two posts recently.
 
-There are no particular order when adding, just adding new items when I read them.
+There’s no particular order when adding to it—I just throw in new items as I read them.
 
-I usually read by genre or author. I am more into Seinen(18+) nowadays. 
+I usually read by genre or author. These days, I’m more into Seinen (18+) manga.
 
-I need to study next time how to upload videos better, used OBS.
+I also need to learn how to upload videos properly next time.
+
+I used OBS for this one, but there’s definitely room for improvement.
 
 ## What to Expect Moving Forward
 
-Working on the latest reads first so I have fresh memory then moving onto the classics.
+I’ll be working on my latest reads first while they’re still fresh in my memory.
 
-Some manga that I like I remember even after a long time the moving onto some titles that might need a re read.
+After that, I’ll revisit some of the classics—some I remember well even after a long time, while others will need a re-read.
 
 ## Forgotten Manga: Lost Stories Rediscovered
 
-A few at the top of my head are GE as I saw it in the list, Mx0 which I am currently re reading and more.
+Some forgotten titles I recently rediscovered include GE (which I noticed in my list) and Mx0, which I’m currently re-reading.
+
+There are plenty more waiting to be revisited.
 
 ## Closing Thoughts
 
-So let's get started, this has been at the back burner for a long time and I guess it's time to chip at it.
+So, let’s get started. This has been on the back burner for a long time, and it’s finally time to start chipping away at it.
 
-Will I ever finish this list? Let's see. This is the same with my games backlog.
+Will I ever finish this list? Who knows. My gaming backlog is the same—it just keeps growing without me realizing it.
 
-They both are growing unnoticed.
+That’s it for now. The list is in the video above.
 
-That's it, the list is on the video above.
-
-Let me know your favorites and recommendations in the comments below.
+Let me know your favorite manga and any recommendations in the comments below!
