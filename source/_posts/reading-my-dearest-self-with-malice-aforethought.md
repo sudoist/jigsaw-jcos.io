@@ -12,6 +12,8 @@ categories: [ reading, manga, favorites ]
 ### Title: My Dearest Self With Malice Aforethought
 ✍️ Author: Hajime Inoryu
 
+🎨️ Illustrator: Shota Ito
+
 📅 Published: 2018–2020
 
 📌 Status: Completed

@@ -180,7 +180,7 @@ Now, I have a backlog that I’m finally working through.
 - Melo Holic
 - Mieruko-chan
 - Miyatsuki Arata (Check Works)
-- [My Dearest Self With Malice Aforethought](/posts/reading-vagrant-soldier-ares/) ✅
+- [My Dearest Self With Malice Aforethought](/posts/reading-my-dearest-self-with-malice-aforethought/) ✅
 - Moebana
 - Molester Man
 - Monster (Naoki Urasawa)
@@ -262,7 +262,7 @@ Now, I have a backlog that I’m finally working through.
 - Umi no Misaki
 - Umibe No Onnanoko
 - UQ Holder
-- [Vagrant Soldier Ares](/posts/reading-my-dearest-self-with-malice-aforethought/) ✅
+- [Vagrant Soldier Ares](/posts/reading-vagrant-soldier-ares/) ✅
 - Viral Hit
 - Watashitachi no Shiawase na Jikan
 - World of Smiles
@@ -271,6 +271,7 @@ Now, I have a backlog that I’m finally working through.
 - Yakitate!! Japan
 - Yakuza Babysitter
 - Yofukashi no Uta
+- Yongbi the Invincible
 - Your Lie in April
 - Your Name
 - Yuria 100 Shiki
