@@ -61,222 +61,220 @@ Now, I have a backlog that I’m finally working through.
 
 #### Backlog to write in text list
 
-- Taiyou No Ie
-- Nozoki Ana
-- She is Young
-- Mayo Chiki!
-- Hantsu x Trash
-- The Dungeon Seeker
-- Ao no Flag
-- Loser
-- Out
-- Kaifuku Jutsushi no Yarinaoshi
-- Your Lie in April
-- Another
-- Clannad
-- Quintessential Quintuplets
-- Sora No Otoshimono
-- Hahri's Lumpy Boarding House
-- Koi wa Misoji o Sugite kara
-- Sakamoto Desu ga?
-- Tanikamen
-- Angel Densetsu
-- Molester Man
-- Koe no Katachi
-- The Legend of the Strongest, Kurosawa!
-- Onani Master Kurosawa
-- Hikaru no Go
-- Eyeshield 21
-- Nodame Cantabile
-- Liar Game
-- Nana to Kaoru
-- Tokyo Ghoul
-- Full Metal Panic! Sigma
-- Gosu: The Master
-- Choujin X
-- Yofukashi no Uta
-- Horimiya
-- GE - Good Ending
-- Ane Doki
-- Love Hina
-- Aki Sora
-- Oretama Guesthouse
-- Criminale!
+- A Silent Voice
+- Ai Yori Aoshi
+- Akane Banashi
+- Akumetsu
 - Ahiru no Sora
-- Erased
-- Melo Holic
-- Real Account
-- Kimi wa Midara na Boku no Joou
-- Diamond in the Rough
-- Hard-Boiled Cop and Dolphin
-- Elfen Lied
-- Look Back
-- Moriking
-- Neru: Way of the Master
+- Aki Sora
+- Aliens Area
+- All You Need Is Kill
+- Amagami - Love Goes On! - Sakurai Rihoko Hen
+- Angel Densetsu
+- Ane Doki
+- Another
+- Apothecary Diaries
+- Ao Haru Ride
+- Ao no Flag
+- Arifureta
+- Ayakashi Triangle
+- Ayashimon
+- Bakuman
+- Beastars
+- Blue Box
+- Blue Lock
+- Boku Dake Shitteru Ichinomiya-san
+- Bokura No Fushidara
+- Bokura wa Minna Kawaisou
+- Bonnouji
+- Brawling Go
+- Bungo Stray Dogs
+- By the Grace of the Gods
 - Candy Flurry
 - Chainsaw Man
-- Nine Dragons’ Ball Parade
-- Jagaaan
-- Mieruko-chan
-- Seer
-- Ghostripper Girl
-- ReLIFE
-- Que Sera Sera
-- Something About Us
-- Orange Marmalade
-- Kimi no Suizou wo Tabetai
-- Your Name
-- Silent Voice (A Silent Voice)
-- Brawling Go
-- Skill of Lure
-- Unbalance x Unbalance
-- Drug Candy
-- Blue Box
-- I Shaved and Brought Home a High School Girl
-- WX Y
-- Amagami - Love Goes On! - Sakurai Rihoko Hen
-- Glass No Megami
-- Yuria 100 Shiki
-- Love Collage
-- Show-ha Shoten
-- All You Need Is Kill
-- Ayashimon
-- Even If You Slit My Mouth
-- The Life Of The Witch Who Remains Single For About 300 Years!
-- Doron Dororon
-- Hell’s Paradise
-- Super Crooks
-- Ao Haru Ride
-- Parasyte - Kiseijuu: Sei no Kakuritsu
-- Inuyashiki
-- Platinum End
-- Magilumiere
-- The Kajiki Chef
-- Sono Bisque Doll wa Koi wo Suru
-- UQ Holder
-- Solo Leveling
-- Ayakashi Triangle
-- Fire Force
-- Dr. Stone
-- Neto-juu no Susume
-- My Deer Friend
-- Mahou Shoujo Site
-- Bokura No Fushidara
-- Greatest Outcast
-- FFF-Class Trash Hero
-- Jujutsu Kaisen
-- Darwin’s Game
-- Tokyo Revengers
-- Haganai
-- Shamo
-- Oshi no Ko
-- Underdog
-- Seraph of the End
-- Ikenie Touhyou
-- Yakitate!! Japan
-- Hentai Elf to Majime Orc
-- Kono Oto Tomare
-- Summertime Rendering
-- Wrong Way to Use Healing Magic
-- Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
-- Sakamoto Days
-- I Don’t Want This Kind of Hero
-- Leviathan (Lee Gyuntak)
-- Skeleton Double
-- Aliens Area
-- Ghostbuster Osamu
-- Silver Spoon
-- Isekai Meikyuu de Harem wo
-- Reverse Villain
-- Kage no Jitsuryokusha ni Naritakute
-- Planetes
-- Nisekoi
-- Saturn Apartments
-- Watashitachi no Shiawase na Jikan
-- Darker Than Black
-- Spy x Family
-- Blue Lock
-- Isekai Handyman
-- Kaguya-sama: Love is War
-- Mousou Telepathy
-- Ningen Fushin
-- Fuufu Ijou, Koibito Miman
-- Rent-A-Girlfriend
-- Domestic Girlfriend
-- Boku Dake Shitteru Ichinomiya-san
-- Umibe No Onnanoko
-- Bonnouji
-- Downfall
-- Okite Kudasai, Kusakabe-san
-- Koi wa Hikaru
-- Bokura wa Minna Kawaisou
-- Umi no Misaki
-- Ase to Sekken
-- Jitsu wa Watashi wa
-- Insomniacs After School
-- Prunus Girl
-- Honnou Switch
-- Machida-kun no Sekai
-- Record of Ragnarok
-- Mushoku Tensei
-- Golden Kamuy
-- Holyland
-- Akumetsu
-- Parallel
-- Imori 201
-- Ai Yori Aoshi
-- Hero Has Returned
-- Arifureta
-- Oyasumi Punpun
-- Monster Musume no Oishasan
-- Bungo Stray Dogs
-- Beastars
-- Maria no Danzai
-- Suki na Ko ga Megane wo Wasureta
-- Akane Banashi
-- Tona Gura
-- Zom 100
-- Kyosei Tensei
-- Hero Raoul
-- Miyatsuki Arata (Check Works)
-- Gyakusatsu Happy End
+- Choujin X
+- Clannad
+- Criminale!
 - Cyberpunk Edgerunners
-- Haikyuu!!
-- Musume Janakute, Watashi (Mama) ga Suki Nano!?
-- B: The Beginning
-- Saihate ni Madou
-- Moebana
-- Viral Hit
-- Monster (Naoki Urasawa)
-- Eleceed
-- Shall We Have Dinner Tonight
 - Dark Doctor Ikuru
-- Bakuman
-- Death Note
-- Kagurabachi
+- Darker Than Black
+- Darwin’s Game
 - Dead Mount Death Play
-- I’m Quitting Heroing
-- Fool Night
-- Yakuza Babysitter
-- Dokuzakura
-- World of Smiles
-- How a Realist Hero Rebuilt a Kingdom
-- The Greatest Demon Lord is Reborn as a Typical Nobody
-- I Got a Cheat Skill in Another World
-- Apothecary Diaries
-- Tsukimichi: Moonlit Fantasy
-- By the Grace of the Gods
-- So I’m a Spider, So What?
-- Frieren
-- Spriggan
-- Reincarnated as a Sword
-- Grimoire of Zero
-- Re:Monster
-- The Breaker S3: Eternal Force
 - Deadman Wonderland
+- Death Note
+- Diamond in the Rough
+- Dokuzakura
+- Domestic Girlfriend
+- Doron Dororon
+- Downfall
+- Dr. Stone
+- Drug Candy
+- Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+- Elfen Lied
+- Eleceed
+- Erased
+- Even If You Slit My Mouth
+- Eyeshield 21
+- FFF-Class Trash Hero
+- Fire Force
+- Fool Night
+- Frieren
+- Fuufu Ijou, Koibito Miman
+- Full Metal Panic! Sigma
+- GE - Good Ending
+- Ghostbuster Osamu
+- Ghostripper Girl
+- Glass No Megami
 - Golden Boy
+- Golden Kamuy
+- Gosu: The Master
+- Greatest Outcast
+- Grimoire of Zero
+- Gyakusatsu Happy End
+- Haikyuu!!
+- Haganai
+- Hahri's Lumpy Boarding House
+- Hard-Boiled Cop and Dolphin
+- Hantsu x Trash
+- Hell’s Paradise
+- Hentai Elf to Majime Orc
+- Hero Has Returned
+- Hero Raoul
+- Hikaru no Go
+- Holyland
+- Honnou Switch
+- Horimiya
+- How a Realist Hero Rebuilt a Kingdom
+- I Don’t Want This Kind of Hero
+- I Got a Cheat Skill in Another World
+- I Shaved and Brought Home a High School Girl
+- I’m Quitting Heroing
+- Ikenie Touhyou
+- Imori 201
+- Inuyashiki
+- Insomniacs After School
+- Isekai Handyman
+- Isekai Meikyuu de Harem wo
+- Jagaaan
+- Jitsu wa Watashi wa
+- Jujutsu Kaisen
+- Kage no Jitsuryokusha ni Naritakute
+- Kagurabachi
+- Kaifuku Jutsushi no Yarinaoshi
+- Kaguya-sama: Love is War
+- Kimi no Suizou wo Tabetai
+- Kimi wa Midara na Boku no Joou
+- Koi wa Hikaru
+- Koi wa Misoji o Sugite kara
+- Koe no Katachi
+- Kono Oto Tomare
+- Kyosei Tensei
+- Liar Game
+- Loser
+- Love Collage
+- Love Hina
+- Machida-kun no Sekai
+- Magilumiere
+- Mahou Shoujo Site
+- Mayo Chiki!
+- Melo Holic
+- Mieruko-chan
+- Miyatsuki Arata (Check Works)
 - [My Dearest Self With Malice Aforethought](/posts/reading-vagrant-soldier-ares/) ✅
+- Moebana
+- Molester Man
+- Monster (Naoki Urasawa)
+- Monster Musume no Oishasan
+- Mousou Telepathy
+- Moriking
+- Mushoku Tensei
+- My Deer Friend
+- NANA to Kaoru
+- Nisekoi
+- Neto-juu no Susume
+- Neru: Way of the Master
+- Nine Dragons’ Ball Parade
+- Nozoki Ana
+- Nodame Cantabile
+- Ningen Fushin
+- Okite Kudasai, Kusakabe-san
+- Onani Master Kurosawa
+- Orange Marmalade
+- Oregairu
+- Oretama Guesthouse
+- Oshi no Ko
+- Out
+- Oyasumi Punpun
+- Parasyte - Kiseijuu: Sei no Kakuritsu
+- Parallel
+- Planetes
+- Platinum End
+- Prunus Girl
+- Que Sera Sera
+- Quintessential Quintuplets
+- Re:Monster
+- Record of Ragnarok
+- Reincarnated as a Sword
+- ReLIFE
+- Rent-A-Girlfriend
+- Reverse Villain
+- Sakamoto Days
+- Sakamoto Desu ga?
+- Saihate ni Madou
+- Saturn Apartments
+- Phantom Seer
+- Seraph of the End
+- Shall We Have Dinner Tonight
+- Shamo
+- She is Young
+- Show-ha Shoten
+- Silent Voice
+- Silver Spoon
+- Skeleton Double
+- Skill of Lure
+- Solo Leveling
+- Something About Us
+- Sono Bisque Doll wa Koi wo Suru
+- So I’m a Spider, So What?
+- Spy x Family
+- Spriggan
+- Suki na Ko ga Megane wo Wasureta
+- Summertime Rendering
+- Super Crooks
+- Taiyou No Ie
+- Tanikamen
+- The Breaker S3: Eternal Force
+- The Dungeon Seeker
+- The Greatest Demon Lord is Reborn as a Typical Nobody
+- The Kajiki Chef
+- The Legend of the Strongest, Kurosawa!
+- The Life Of The Witch Who Remains Single For About 300 Years!
+- The Greatest Outcast
+- The Legend of the Strongest, Kurosawa!
+- The Life Of The Witch Who Remains Single For About 300 Years!
+- The Wrong Way to Use Healing Magic
+- Tokyo Ghoul
+- Tokyo Revengers
+- Tona Gura
+- Tsukimichi: Moonlit Fantasy
+- Underdog
+- Unbalance x Unbalance
+- Umi no Misaki
+- Umibe No Onnanoko
+- UQ Holder
 - [Vagrant Soldier Ares](/posts/reading-my-dearest-self-with-malice-aforethought/) ✅
+- Viral Hit
+- Watashitachi no Shiawase na Jikan
+- World of Smiles
+- W X Y
+- Wrong Way to Use Healing Magic
+- Yakitate!! Japan
+- Yakuza Babysitter
+- Yofukashi no Uta
+- Your Lie in April
+- Your Name
+- Yuria 100 Shiki
+- Zom 100
 
 > To add checks and links to completed titles  
 > Some items got removed, or I might have missed when exporting from Trello

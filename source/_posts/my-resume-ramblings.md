@@ -29,7 +29,7 @@ I was thinking of this for a while and listed in a Trello board. Some years ago.
 
 These companies or groups that messed up the world or shady in a way.
 
-![Before Edit](https://res.cloudinary.com/langitlupakintoncloud/image/upload/hugo/jcos.io/trelloresume_tpuqyf.png)
+![Fake resume](https://res.cloudinary.com/langitlupakintoncloud/image/upload/hugo/jcos.io/trelloresume_tpuqyf.png)
 
 Wow... That intro was lengthy than I expected, enough of my ramblings let's get to it.
 
