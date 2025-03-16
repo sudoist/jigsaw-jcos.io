@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: "My Manga Blog Backlog – What’s Coming Next?"
 date: 2025-03-15
-description: A highly addictive and fun tower defense game where you strategically place plants to fend off waves of zombies.
+description: "Looking for your next manga to read? This list features a diverse mix of must-reads, from classics to hidden gems across various genres. Whether you're into action, romance, psychological thrillers, or slice of life, there's something here for you!"
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1741974866/hugo/jcos.io/t6qtyrad9huwscplymmm.png
 featured: true
 categories: [ anything-goes, reading ]
