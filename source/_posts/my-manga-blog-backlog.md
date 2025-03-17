@@ -249,6 +249,7 @@ Now, I have a backlog that I’m finally working through.
 - The Kajiki Chef
 - The Legend of the Strongest, Kurosawa!
 - The Life Of The Witch Who Remains Single For About 300 Years!
+- [The Greatest Estate Developer](posts/reading-the-greatest-estate-developer/) ✅
 - The Greatest Outcast
 - The Legend of the Strongest, Kurosawa!
 - The Life Of The Witch Who Remains Single For About 300 Years!

@@ -22,53 +22,42 @@ categories: [ reading, manhwa, favorites ]
 
 ## TL;DR
 
-An unexpected manhwa to one of my recent favorites.
+An unexpectedly great manhwa that quickly became one of my recent favorites.
 
-It's another isekai story to a book but the story changes when he gained consciousness as one of the bad characters.
+It's another isekai story where the protagonist is transported into a book, but things take a turn when he gains consciousness as one of the villains.
 
-Ended the season to start the final arc in april 2025
+The latest season ended, leading into the final arc set to start in April 2025.
 
-Lloyd is the main character set out to make everyone his laborer which is the main theme but is hilariously effective.
+Lloyd, the main character, is hilariously effective at turning everyone into his laborers, making for an entertaining and unique story.
 
-Can recommend check this one out.
+Highly recommend checking this one out!
 
 ## Summary
 
-A civil engineering student wakes up as one of the character in the book he is reading.
+A civil engineering student wakes up as a character in the novel he was reading.
 
-His noble family is drowning in debt and he uses his knowledge to build floor heating, apartments,
-sewage and other modern building in medieval setting.
+His noble family is drowning in debt, but he uses his modern engineering knowledge to introduce floor heating, apartments, sewage systems, and other innovations in a medieval setting.
 
-The story of the book is a tragedy which he works his way to avoid.
-
-He makes money and manipulates people to prevent the bad things and improve his terrirtory.
-
-(add more and improve)
-
+The novel’s original story is a tragedy, but Lloyd is determined to change fate by making money, manipulating people, and improving his territory.
 
 ## Notables
 
-- Strengths: likable characters, humor is great, Art - scummy faces add in to comedy
-- Weaknesses: gets a little repetetive but with different races
-
-(add more and improve)
+- Strengths: Likable characters, great humor, and fantastic art—especially Lloyd’s scummy expressions, which enhance the comedy.
+- Weaknesses: Can feel a bit repetitive at times, though the introduction of different races keeps things fresh.
 
 ## My Thoughts
 
 Recommended!
 
-Water is good, Water is Lloyd, Lloyd is good
+Water is good. Water is Lloyd. Lloyd is good.
 
-the comedy is good and goes well with the art.
+The comedy blends perfectly with the art style, making it a joy to read.
 
-Other characters also add in to the ridiculousness of Lloyd.
+Supporting characters add to the ridiculousness of Lloyd’s antics, and even the novel’s supposed protagonist eventually gets caught up in his flow.
 
-Even the supposedly guy, the book's protagonist gets into LLoyd's flow later in the story.
+Overall, it’s a fun and engaging read. Definitely worth checking out!
 
-Overall, it's a fun read. Definitely worth checking out!
-Patiently waiting to read until the conclusion
-
-(please check for improvements)
+Patiently waiting for the final arc and the story’s conclusion.
 
 > I avoided the point system because I am not a reviewer or a critic and this is mostly for fun.  
 > Wanted to share recommendations for people who want to try something else and completed.
