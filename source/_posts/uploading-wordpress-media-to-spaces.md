@@ -11,25 +11,26 @@ categories: [ dev ]
 
 ## Introduction
 
-As Jamstack gets popular in recent years, a headless WordPress install is seeing considerations when developers are looking for out of the box API.
+As Jamstack grows in popularity, a headless WordPress setup is becoming a viable option for developers who need an out-of-the-box API.
 
-I personally use this setup when I just want to have a quick API ready.
+Personally, I use this setup when I just want a quick, ready-to-go API.
 
-WordPress base install is good but plugins to do something is one of the reason I stopped using it back in the day.
+WordPress is solid at its core, but I’ve always disliked relying on plugins—especially those that lock basic features behind **"PRO"** versions.
 
-Hated those plugins man, you have to work around critical plugins and pay for "**PRO**" features you can just code yourself.
-
-So for just out of the box cms features as API it is a solution to consider.
+For a simple CMS with an API, this is a setup worth considering.
 
 ## Set up
 
-Requires a working WordPress install with access to functions.php.
+You'll need a working WordPress install with access to functions.php.
 
-Works with [regular install](https://wordpress.org/download/) and [Bedrock](https://roots.io/bedrock/).
+This works with both:
+
+- [Regular WordPress installs](https://wordpress.org/download/)
+- [Bedrock](https://roots.io/bedrock/)
 
 ## Guide
 
-1. Add the codes below into your functions.php
+1. Add this code to functions.php
 
 #### functions.php
 
@@ -94,9 +95,11 @@ add_filter('wp_handle_upload', function ($upload) {
 });
 ```
 
-> What's nice with this code is this will work for either Amazon S3 or DigitalOcean Spaces.
+> This setup works for both Amazon S3 and DigitalOcean Spaces.
 
-2. Replace hard coded credentials with env variables. (OPTIONAL)
+2. Use Environment Variables (Optional, But Recommended)
+
+For better security, replace hardcoded credentials with environment variables:
 
 #### functions.php
 
@@ -112,27 +115,27 @@ add_filter('wp_handle_upload', function ($upload) {
     ...
 ```
 
-If you are using a setup with .env variables for example [Bedrock](https://roots.io/bedrock/).
+If you're using a .env setup like [Bedrock](https://roots.io/bedrock/), you can reference credentials like this:
 
-You can get the credentials by using `$_SERVER['YOUR_S3_SPACES_ENV_VARIABLE']`.
+```
+$_SERVER['YOUR_S3_SPACES_ENV_VARIABLE']
+```
 
-That's pretty much it.
-
-Your uploads will now use the storage bucket.
+And that's it! Your WordPress uploads will now be stored in the cloud instead of your local server.
 
 ## Why not just use the wp-uploads in your local install?
 
-One major reason is that when I change servers or you need to backup a WordPress install, the media files are a pain to migrate.
+Two main reasons:
 
-In the past I used plugins like [WP Offload Media](https://deliciousbrains.com/wp-offload-media/) but the pricing is ridiculous for my tastes.
+1. Easier Server Migrations & Backups – No need to manually transfer bulky media files when changing hosts.
+2. No Need for Expensive Plugins – I used to use [WP Offload Media](https://deliciousbrains.com/wp-offload-media/pricing/), but their pricing is way too high for my taste.
 
-So you can just copy the code above and save yourself some money.
+Instead, you can just copy this code and save some cash.
 
-If for any reason you still want to spend you can always [support me](/support/) and buy one of my special [Buyer's Remorse](/support/)(Starting from $1).
+Or, if you still feel like spending, you can [support me](/support/) and buy my ["Buyer's Remorse"](/support/) package (starting at just $1).
 
-> Thank you!  
-> I removed some customizations I used so let me know if you are encountering issues in the comments.
- 
-The featured image is a little pixelated but I guess that's ok.
+> Thanks for reading! If you run into any issues, drop a comment.
 
-Hope this helps, bye. 
+P.S. Yeah, I know the featured image is a bit pixelated, but oh well.
+
+Hope this helps—bye!
