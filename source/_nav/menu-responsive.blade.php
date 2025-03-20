@@ -2,6 +2,12 @@
     <ul class="my-0">
         <li class="pl-4">
             <a
+                href="https://jcos.io"
+                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/blog') ? 'active [#b99128]' : 'text-gray-800 hover:[#b99128]' }}"
+            >Home</a>
+        </li>
+        <li class="pl-4">
+            <a
                 href="https://jcos.io/about/"
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/blog') ? 'active [#b99128]' : 'text-gray-800 hover:[#b99128]' }}"
             >About</a>

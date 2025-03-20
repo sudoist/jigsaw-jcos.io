@@ -1,4 +1,9 @@
 <nav class="hidden lg:flex items-center justify-end text-lg menu">
+    <a href="https://jcos.io"
+       class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline">
+        Home
+    </a>
+
     <a href="https://jcos.io/about/"
        class="ml-6 font-light text-[#a9a9b3] hover:text-[#b99128] hover:underline">
         About
