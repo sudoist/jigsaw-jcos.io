@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: "So many games so little time: Plants vs Zombies"
+title: "So many games, so little time: Plants vs Zombies"
 date: 2015-10-14
 description: A highly addictive and fun tower defense game where you strategically place plants to fend off waves of zombies.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/loading_q37xyj.png

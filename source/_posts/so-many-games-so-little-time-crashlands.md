@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: "So many games so little time: Crashlands"
+title: "So many games, so little time: Crashlands"
 date: 2018-03-30
 description: Quick summary and review of Crashlands. Played on my phone. Don't you guys have phones?
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/crashlands-cover_gtnzk1.png
