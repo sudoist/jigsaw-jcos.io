@@ -6,7 +6,7 @@ date: 2016-04-07
 description: A little introduction to URL shorteners. Setting up custom domain
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/yourls_logo_rrvjtx.png
 featured: false
-categories: [ gaming, project ]
+categories: [ project ]
 ---
 
 Finding an unused domain name is hard, finding available short domains is even harder.
