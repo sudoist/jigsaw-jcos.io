@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: "So many games, so little time: Slay the Spire"
 date: 2025-08-04
-description: Quick summary and review of Slay the Spire. Played on Android, Steam and Switch.
+description: Summary and review of Slay the Spire. Played on Android, Steam and Switch.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754388729/hugo/jcos.io/ptvtdyd4u2hcpc32vtgf.jpg
 featured: false
 categories: [ gaming ]
