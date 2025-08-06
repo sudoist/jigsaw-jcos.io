@@ -27,6 +27,48 @@ The autosave between turns helps too.
 
 The card mechanics are deep enough to experiment with builds but simple enough not to feel overwhelming.
 
+---
+
+#### Screenshots
+
+<div class="columns-2 md:columns-3 gap-4 space-y-4">
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437899/hugo/jcos.io/slay-the-spire/jm5v99ugnbh4p9pef43b.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437899/hugo/jcos.io/slay-the-spire/jm5v99ugnbh4p9pef43b.jpg" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437900/hugo/jcos.io/slay-the-spire/tptr2vsyiwevl1ap0kbj.jpg" class="m-1" data-lightbox="gallery" data-title="Image 2">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437900/hugo/jcos.io/slay-the-spire/tptr2vsyiwevl1ap0kbj.jpg" class="rounded-lg shadow-lg" alt="Image 2">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437900/hugo/jcos.io/slay-the-spire/hzrlomaijnrpghyd6cqr.jpg" class="m-1" data-lightbox="gallery" data-title="Image 3">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437900/hugo/jcos.io/slay-the-spire/hzrlomaijnrpghyd6cqr.jpg" class="rounded-lg shadow-lg" alt="Image 3">
+    </a>
+</div>
+
+---
+
+#### A few gameplay recordings
+
+<div class="columns-1 md:columns-2 gap-4 space-y-4">
+
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/pd2Pla6SBjk" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/CNwo54XvHvs" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/MJULQ3sEl6c" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="aspect-w-16 aspect-h-9">
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/oA8J_zlDzH0" frameborder="0" allowfullscreen></iframe>
+    </div>   
+</div>
+
+> Switch recordings only capture last 30 seconds of gameplay.  
+> Not sure how my Watcher and other heart kills captures got lost.
+
 ## Story
 
 Not a story-heavy game, but one that sticks with you because of how tight and replayable the core experience is.
