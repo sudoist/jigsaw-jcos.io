@@ -7,7 +7,7 @@
 
     <div class="columns-1 sm:columns-2 gap-6">
 
-        @foreach ($posts->where('featured', true)->take(2) as $featuredPost)
+        @foreach ($posts->where('featured', true)->take(4) as $featuredPost)
             <div class="break-inside-avoid mb-6">
 
                 <div class="flex flex-col mb-4">
