@@ -32,6 +32,12 @@ The card mechanics are deep enough to experiment with builds but simple enough n
 #### Screenshots
 
 <div class="columns-2 md:columns-3 gap-4 space-y-4">
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754443853/hugo/jcos.io/slay-the-spire/wsl2hv8zeiupmkbtpme5.png" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754443853/hugo/jcos.io/slay-the-spire/wsl2hv8zeiupmkbtpme5.png" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754574453/hugo/jcos.io/switch/pz0is0zfsgx9zgymd8ib.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754574453/hugo/jcos.io/switch/pz0is0zfsgx9zgymd8ib.jpg" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
     <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437899/hugo/jcos.io/slay-the-spire/jm5v99ugnbh4p9pef43b.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
         <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754437899/hugo/jcos.io/slay-the-spire/jm5v99ugnbh4p9pef43b.jpg" class="rounded-lg shadow-lg" alt="Image 1">
     </a>
