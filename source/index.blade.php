@@ -5,9 +5,9 @@
 
     <hr class="border-b my-6">
 
-    <div class="columns-1 sm:columns-2 gap-6">
+    <div class="columns-1 sm:columns-3 gap-6">
 
-        @foreach ($posts->where('featured', true)->take(4) as $featuredPost)
+        @foreach ($posts->where('featured', true)->take(3) as $featuredPost)
             <div class="break-inside-avoid mb-6">
 
                 <div class="flex flex-col mb-4">

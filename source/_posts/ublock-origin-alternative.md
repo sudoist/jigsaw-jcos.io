@@ -5,7 +5,7 @@ title: uBlock Origin Removed from Chrome – Best Alternative
 date: 2025-03-09
 description: Chrome no longer supports uBlock Origin. Here's the best alternative to block ads, including on YouTube.
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1741486302/hugo/jcos.io/yjm4zjay98yuedetpv91.png
-featured: true
+featured: false
 categories: [ anything-goes ]
 ---
 
