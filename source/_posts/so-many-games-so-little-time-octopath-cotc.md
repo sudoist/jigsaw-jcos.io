@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: "So many games, so little time: Octopath Traveler: Champions of the Continent"
-date: 2025-08-09
+date: 2025-08-11
 description: "Summary and review of Octopath Traveler: Champions of the Continent, a free-to-play turn-based JRPG for mobile."
 cover_image: https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735573/hugo/jcos.io/cotc/hqsbnf5apughkmyznkz9.jpg
 featured: false
@@ -39,19 +39,34 @@ Easy to get into, but it gets more interesting once you unlock buffs, debuffs, a
 #### Screenshots
 
 <div class="columns-2 md:columns-3 gap-4 space-y-4">
-    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735579/hugo/jcos.io/cotc/utcbisni8ssdt3vjhjo8.png" class="m-1" data-lightbox="gallery" data-title="Image 1">
-        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735579/hugo/jcos.io/cotc/utcbisni8ssdt3vjhjo8.png" class="rounded-lg shadow-lg" alt="Image 1">
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735520/hugo/jcos.io/cotc/c2y5r1foudx4awa1xh0b.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735520/hugo/jcos.io/cotc/c2y5r1foudx4awa1xh0b.jpg" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735546/hugo/jcos.io/cotc/yaifmwna2rvsziilbne3.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735546/hugo/jcos.io/cotc/yaifmwna2rvsziilbne3.jpg" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735538/hugo/jcos.io/cotc/ft4b2newtuufbs2xixbh.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735538/hugo/jcos.io/cotc/ft4b2newtuufbs2xixbh.jpg" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735577/hugo/jcos.io/cotc/wfxv9excpblgtwmkiekz.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735577/hugo/jcos.io/cotc/wfxv9excpblgtwmkiekz.jpg" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735526/hugo/jcos.io/cotc/yfixz0m9wugdhdzgycxg.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735526/hugo/jcos.io/cotc/yfixz0m9wugdhdzgycxg.jpg" class="rounded-lg shadow-lg" alt="Image 1">
+    </a>
+    <a href="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735569/hugo/jcos.io/cotc/uxec2xjvsxfmopxnppja.jpg" class="m-1" data-lightbox="gallery" data-title="Image 1">
+        <img src="https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735569/hugo/jcos.io/cotc/uxec2xjvsxfmopxnppja.jpg" class="rounded-lg shadow-lg" alt="Image 1">
     </a>
 </div>
 
 ---
 
-#### A few gameplay recordings
+#### Gameplay: Hell EXP farming spot in **The Bridge Beyond**
 
 <div class="columns-1 md:columns-2 gap-4 space-y-4">
 
     <div class="aspect-w-16 aspect-h-9">
-        <iframe width="400" height="300" src="https://www.youtube.com/embed/pd2Pla6SBjk" frameborder="0" allowfullscreen></iframe>
+        <iframe width="400" height="300" src="https://www.youtube.com/embed/7gsxU5BNPJo" frameborder="0" allowfullscreen></iframe>
     </div>  
 </div>
 
@@ -60,9 +75,11 @@ Easy to get into, but it gets more interesting once you unlock buffs, debuffs, a
 I usually skip mobile game stories, but Champions of the Continent is an exception.
 
 My favorite so far is Auguste from Master of Fame.  
-The arc unexpectedly went dark when he killed an actress during a rehearsal scene involving choking—a moment I didn’t see coming. 
+The arc unexpectedly went dark when he killed an actress during a rehearsal scene involving choking—a moment I didn’t see coming.
 
 ## Progression
+
+![Single player reminder](https://res.cloudinary.com/langitlupakintoncloud/image/upload/v1754735534/hugo/jcos.io/cotc/rosee3d4h29bv29h3saz.jpg)
 
 Rubies (premium currency) are scarce, but early game pulls are enough to get you started.
 
